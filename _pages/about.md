@@ -28,15 +28,6 @@ Hannan is a Ph.D. student supervised by Prof. Hwee Tou Ng at NUSNLP lab, in the 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Video Infilling with Rich Motion Prior
-
-**Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy <br />
-British Machine Vision Conference (**BMVC**), 2023
-
-[**Paper**]()
-</div>
-</div>
-
 ## Unsupervised Grammatical Error Correction Rivaling Supervised Methods
 
 **Hannan Cao**, Liping Yuan, Yuchen Zhang, Hwee Tou Ng <br />
