@@ -34,18 +34,27 @@ Hannan is a Ph.D. student supervised by Prof. Hwee Tou Ng at NUSNLP lab, in the 
 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
 
 [**Paper**]()
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div></div></div>
-<div class='paper-box-text' markdown="1">
+## Mitigating Exposure Bias in Grammatical Error Correction with Data Augmentation and Reweighting
 
-## Vehicle Tracking Using Deep SORT with Low Confidence Track Filtering
+**Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
+Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics
 
-**Xinyu Hou**, Yi Wang, Lap-Pui Chau <br />
-IEEE International Conference on Advanced Video and Signal-Based Surveillance (**AVSS**), 2019
+[**Paper**]()
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
+## Grammatical Error Correction: A Survey of the State of the Art
+Christopher Bryant, Zheng Yuan, Muhammad Reza Qorib, **Hannan Cao**, Hwee Tou Ng, and Ted Briscoe <br />
+Computational Linguistics
+
+[**Paper**]()
+
+## Grammatical Error Correction with Contrastive Learning in Low Error Density Domains
+
+**Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
+Findings of the Association for Computational Linguistics: EMNLP 2021
+
+[**Paper**]()
+
 </div>
 </div>
 
