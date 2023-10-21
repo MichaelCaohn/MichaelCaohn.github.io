@@ -28,27 +28,27 @@ Hannan is a Ph.D. student supervised by Prof. Hwee Tou Ng at NUSNLP lab, in the 
 ## Unsupervised Grammatical Error Correction Rivaling Supervised Methods
 
 **Hannan Cao**, Liping Yuan, Yuchen Zhang, Hwee Tou Ng <br />
-Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
+Proceedings of EMNLP, 2023
 
 [**Paper**]()
 
 ## Mitigating Exposure Bias in Grammatical Error Correction with Data Augmentation and Reweighting
 
 **Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
-Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics
+Proceedings of EACL, 2023
 
 [**Paper**]()
 
 ## Grammatical Error Correction: A Survey of the State of the Art
 Christopher Bryant, Zheng Yuan, Muhammad Reza Qorib, **Hannan Cao**, Hwee Tou Ng, and Ted Briscoe <br />
-Computational Linguistics
+Computational Linguistics, 2023
 
 [**Paper**]()
 
 ## Grammatical Error Correction with Contrastive Learning in Low Error Density Domains
 
 **Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
-Findings of the Association for Computational Linguistics: EMNLP 2021
+EMNLP findings 2021
 
 [**Paper**]()
 
