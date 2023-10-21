@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hannan Cao is a Ph.D. student supervised by Prof. Hwee Tou Ng at NUSNLP lab, in the School of Computing, National University of Singapore. Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University. His research focus is Natural Language Processing, with the current focus on Grammatical Error Correction.
+Hannan Cao is a Ph.D. student supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/) at NUSNLP lab, in the School of Computing, National University of Singapore. 
+
+Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University. His research focus is Natural Language Processing, with the current focus on Grammatical Error Correction. He also did internship at ByteDance AI Lab, collaborated with [Yuchen Zhang](https://zhangyuc.github.io)
 
 # Publications 
 
