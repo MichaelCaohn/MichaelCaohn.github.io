@@ -19,10 +19,6 @@ redirect_from:
 
 Hannan is a Ph.D. student supervised by Prof. Hwee Tou Ng at NUSNLP lab, in the School of Computing, National University of Singapore. Prior to his Ph.D. study, he received his bachelor degree in computer science in 2020 from Nanyang Technological University. His research focus is Natural Language Processing, with the current focus on Grammatical Error Correction.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # Publications 
 
 ## Unsupervised Grammatical Error Correction Rivaling Supervised Methods
