@@ -39,7 +39,7 @@ Proceedings of EACL, 2023
 Christopher Bryant, Zheng Yuan, Muhammad Reza Qorib, **Hannan Cao**, Hwee Tou Ng, Ted Briscoe <br />
 Computational Linguistics Journal, 2023
 
-## [A unified explanation for the morphology and carbon storage of raised peatlands]()
+## [A Unified Explanation for the Morphology and Carbon Storage of Raised Peatlands]()
 Alexander R. Cobb, René Dommain, Kimberly Yeap, **Hannan Cao**, Nathan C. Dadap, Bodo Bookhagen, Paul H. Glaser, Charles F. Harvey <br />
 Nature, 2023
 
@@ -56,7 +56,7 @@ EMNLP findings, 2021
 ## B.Eng. in School of Computer Science of Engineering <br /> 
    Nanyang Technological University, *2016.08 - 2020.06*
   - Degree with honors (highest distinction)
-  - Dean's List: 2017 - 2018, 2019-2020
+  - Dean's List: 2017 - 2018, 2019 - 2020
   - CGPA: 4.78/5.0
   - NTU Science and Engineering Undergraduate Scholarship
 
