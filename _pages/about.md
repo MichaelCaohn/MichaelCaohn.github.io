@@ -19,7 +19,7 @@ redirect_from:
 
 Hannan Cao is a Ph.D. student supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/) at NUSNLP lab, in the School of Computing, National University of Singapore. His research focus is Natural Language Processing, with the current focus on Grammatical Error Correction.
 
-Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University, where he worked with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/). He also did internship at ByteDance AI Lab, collaborated with [Yuchen Zhang](https://zhangyuc.github.io).
+Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University, where he worked with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/). He also did several internship at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alex Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), [Jun Lang](https://billlangjun.github.io).
 
 # Publications 
 
@@ -39,11 +39,13 @@ Proceedings of EACL, 2023
 Christopher Bryant, Zheng Yuan, Muhammad Reza Qorib, **Hannan Cao**, Hwee Tou Ng, Ted Briscoe <br />
 Computational Linguistics Journal, 2023
 
+## [A unified explanation for the morphology and carbon storage of raised peatlands]()
+Alexander R. Cobb, René Dommain, Kimberly Yeap, **Hannan Cao**, Nathan C. Dadap, Bodo Bookhagen, Paul H. Glaser, Charles F. Harvey <br />
+Nature, 2023
 
 ## [Grammatical Error Correction with Contrastive Learning in Low Error Density Domains](https://aclanthology.org/2021.findings-emnlp.419.pdf)
 **Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
 EMNLP findings, 2021
-
 
 # Educations
 ## Ph.D. in Computer Science <br /> 
