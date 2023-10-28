@@ -52,7 +52,6 @@ EMNLP findings, 2021
   National University of Singapore, *2020.08 - now*
   - Research Achievement Award
 
-<br /> 
 ## B.Eng. in School of Computer Science of Engineering <br /> 
    Nanyang Technological University, *2016.08 - 2020.06*
   - Degree with honors (highest distinction)
