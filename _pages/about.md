@@ -27,10 +27,6 @@ Prior to his Ph.D. study, he received his bachelor degree in Computer Science in
 **Hannan Cao**, Liping Yuan, Yuchen Zhang, Hwee Tou Ng <br />
 Proceedings of EMNLP, 2023
 
-## [Performance Evaluation and Analysis of Large Language Models on the English Grammatical Error Correction Task]()
-**Hannan Cao**, Yuchen Zhang, Hwee Tou Ng <br />
-arXiv, 2023
-
 ## [Mitigating Exposure Bias in Grammatical Error Correction with Data Augmentation and Reweighting](https://aclanthology.org/2023.eacl-main.155.pdf)
 **Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
 Proceedings of EACL, 2023
