@@ -51,7 +51,8 @@ EMNLP findings, 2021
 ## B.Eng. in School of Computer Science of Engineering <br /> 
    Nanyang Technological University, *2016.08 - 2020.06*
   - Degree with honors (highest distinction)
-  - Dean's List: 2017 - 2018, 2019 - 2020
+  - Minor in Mathematics
+  - Dean's List (top 5% of the cohort): 2017 - 2018, 2019 - 2020
   - CGPA: 4.78/5.0
   - NTU Science and Engineering Undergraduate Scholarship
 
