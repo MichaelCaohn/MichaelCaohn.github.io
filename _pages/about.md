@@ -23,7 +23,7 @@ Prior to his Ph.D. study, he received his bachelor degree in Computer Science in
 
 # Publications 
 
-## [Unsupervised Grammatical Error Correction Rivaling Supervised Methods]()
+## [Unsupervised Grammatical Error Correction Rivaling Supervised Methods](https://aclanthology.org/2023.emnlp-main.185.pdf)
 **Hannan Cao**, Liping Yuan, Yuchen Zhang, Hwee Tou Ng <br />
 Proceedings of EMNLP, 2023
 
@@ -35,7 +35,7 @@ Proceedings of EACL, 2023
 Christopher Bryant, Zheng Yuan, Muhammad Reza Qorib, **Hannan Cao**, Hwee Tou Ng, Ted Briscoe <br />
 Computational Linguistics Journal, 2023
 
-## [A Unified Explanation for the Morphology and Carbon Storage of Raised Peatlands]()
+## [A Unified Explanation for the Morphology and Carbon Storage of Raised Peatlands](https://www.nature.com/articles/s41586-023-06807-w)
 Alexander R. Cobb, René Dommain, Kimberly Yeap, **Hannan Cao**, Nathan C. Dadap, Bodo Bookhagen, Paul H. Glaser, Charles F. Harvey <br />
 Nature, 2023
 
