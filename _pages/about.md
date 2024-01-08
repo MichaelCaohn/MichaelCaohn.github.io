@@ -60,10 +60,10 @@ EMNLP findings, 2021
    Nanyang Technological University, *2016.08 - 2020.06*
   - Degree with honors (Highest distinction)
   - Minor in Mathematics
-  - Dean's List (top 5% of the cohort): 2017 - 2018, 2019 - 2020
   - CGPA: 4.78/5.0
-  - NTU Science and Engineering Undergraduate Scholarship
+  - Dean's List (top 5% of the cohort): 2017 - 2018, 2019 - 2020
   - NTU President Research Scholar 2017 - 2018, 2018 - 2019
+  - NTU Science and Engineering Undergraduate Scholarship
 
 # 💻 Internships
 - *2022.07 - 2023.07*, ByteDance AI Lab, Singapore.
