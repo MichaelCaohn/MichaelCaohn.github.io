@@ -63,6 +63,7 @@ EMNLP findings, 2021
   - Dean's List (top 5% of the cohort): 2017 - 2018, 2019 - 2020
   - CGPA: 4.78/5.0
   - NTU Science and Engineering Undergraduate Scholarship
+  - NTU President Research Scholar 2017 - 2018, 2018 - 2019
 
 # 💻 Internships
 - *2022.07 - 2023.07*, ByteDance AI Lab, Singapore.
