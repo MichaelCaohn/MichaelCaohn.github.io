@@ -48,9 +48,8 @@ EMNLP findings, 2021
 # Invited Talks
   - The 2023 Singapore Symposium on Natural Language Processing (SSNLP)
 
-# Professional Service
-  - Reviewer/PC member for: 
-    - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
+# Reviewer/PC member for: 
+  - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
 
 # Educations
 ## Ph.D. in Computer Science <br /> 
