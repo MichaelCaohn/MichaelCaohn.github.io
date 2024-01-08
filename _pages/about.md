@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hannan Cao is a Ph.D. student supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/) at NUSNLP lab, in the School of Computing, National University of Singapore. His research focus is Natural Language Processing, with the current focus on Grammatical Error Correction.
+Hannan Cao is a Ph.D. student supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/) at NUSNLP lab, in the School of Computing, National University of Singapore. His research focus is Natural Language Processing, with the current focus on Writing Assistant, and Large Language Models.
 
-Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University, where he worked with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/). He also did several internship at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
+Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University, where he worked with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/) and [Jianfei Cai](https://jianfei-cai.github.io/). He also did several internship at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
+
+If you are interested in my CV, please drop me an email at caomichael19@gmail.com :)
 
 # Publications 
 
@@ -43,6 +45,13 @@ Nature, 2023
 **Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
 EMNLP findings, 2021
 
+# Invited Talks
+## The 2023 Singapore Symposium on Natural Language Processing (SSNLP)
+
+# Professional Service
+## Reviewer/PC member for: 
+  - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
+
 # Educations
 ## Ph.D. in Computer Science <br /> 
   National University of Singapore, *2020.08 - now*
@@ -50,7 +59,7 @@ EMNLP findings, 2021
 
 ## B.Eng. in School of Computer Science of Engineering <br /> 
    Nanyang Technological University, *2016.08 - 2020.06*
-  - Degree with honors (highest distinction)
+  - Degree with honors (Highest distinction)
   - Minor in Mathematics
   - Dean's List (top 5% of the cohort): 2017 - 2018, 2019 - 2020
   - CGPA: 4.78/5.0
