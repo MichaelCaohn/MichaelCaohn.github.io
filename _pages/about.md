@@ -45,11 +45,6 @@ Nature, 2023
 **Hannan Cao**, Wenmian Yang, Hwee Tou Ng <br />
 EMNLP findings, 2021
 
-# Invited Talks
-  - The 2023 Singapore Symposium on Natural Language Processing (SSNLP)
-
-# Reviewer/PC member for: 
-  - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
 
 # Educations
 ## Ph.D. in Computer Science <br /> 
@@ -69,3 +64,9 @@ EMNLP findings, 2021
 - *2022.07 - 2023.07*, ByteDance AI Lab, Singapore.
 - *2019.03 - 2019.08*, Singapore-MIT Alliance for Research & Technology Centre, Singapore.
 - *2018.05 - 2018.08*, Lazada, Singapore.
+
+# Invited Talks
+  - The 2023 Singapore Symposium on Natural Language Processing (SSNLP)
+
+# Reviewer/PC member for: 
+  - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
