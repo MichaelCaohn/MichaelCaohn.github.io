@@ -65,6 +65,8 @@ EMNLP findings, 2021
 - *2019.03 - 2019.08*, Singapore-MIT Alliance for Research & Technology Centre, Singapore.
 - *2018.05 - 2018.08*, Lazada, Singapore.
 
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lJTM1JRXX9RRppyx5dDDTgKtHdJcKaJEEnmqtgzAIJI&cl=ffffff&w=a"></script>
+
 # Invited Talks
   - The 2023 Singapore Symposium on Natural Language Processing (SSNLP)
 
