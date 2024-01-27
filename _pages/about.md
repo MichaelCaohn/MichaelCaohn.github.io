@@ -71,4 +71,3 @@ EMNLP findings, 2021
 # Reviewer/PC member for: 
   - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lJTM1JRXX9RRppyx5dDDTgKtHdJcKaJEEnmqtgzAIJI&cl=ffffff&w=a"></script>
