@@ -19,9 +19,10 @@ redirect_from:
 
 Hannan Cao is a Ph.D. student supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/) at NUSNLP lab, in the School of Computing, National University of Singapore. His research focus is Natural Language Processing, with the current focus on Writing Assistant, and Large Language Models.
 
-Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University, where he worked with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/) and [Jianfei Cai](https://jianfei-cai.github.io/). He also did several internship at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
+Prior to his Ph.D. study, he received his bachelor degree in Computer Science in 2020 from Nanyang Technological University, where he worked with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/) and [Jianfei Cai](https://jianfei-cai.github.io/). He went on exchange at [TUM](https://www.tum.de/en/) and [UCLA](https://www.ucla.edu/) during his bachelor's study. He also did several internships at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
 
-If you are interested in my CV, please drop me an email at caomichael19@gmail.com :)
+
+If you are interested in Hannan's CV, please drop an email at caomichael19@gmail.com :)
 
 # Publications 
 
