@@ -23,7 +23,7 @@ Prior to my Ph.D. study, I received a Bachelor of Engineering (Computer Science)
 
 If you are interested in my CV, please drop an email at caomichael19@gmail.com :)
 
-More about me: In my spare time, I love swimming, cycling, and playing tennis. Traveling and exploring diverse cultures also captivate me. I've had the pleasure of spending over one year in Cambridge, UK (2006), as well as almost half year in Munich, Germany (2018), and Los Angeles, USA (2016).
+More about me: In my spare time, I love swimming, cycling, and playing tennis. Traveling and exploring diverse cultures also captivate me. I've had the pleasure of living for over a year in the charming city of Cambridge, UK (2006), and have also spent enriching six-month stints in Los Angeles, USA (2016), and Munich, Germany (2018).
 
 # Publications 
 
