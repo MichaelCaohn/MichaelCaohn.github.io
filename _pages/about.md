@@ -25,7 +25,7 @@ If you are interested in my CV, please drop an email at caomichael19@gmail.com :
 
 More about me: In my spare time, I love swimming, cycling, and playing tennis. Traveling and exploring diverse cultures also captivate me. I've had the pleasure of living for over a year in the charming city of Cambridge, UK (2006), and have also spent an enriching six-month in Los Angeles, USA (2016), and Munich, Germany (2018).
 
-# Under-Review Papers 
+# Under Review Papers 
 
 ## A Constrained Text Revision Agent via Iterative Planning and Searching [\[PDF\]](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf) [\[PPT\]](https://michaelcaohn.github.io/assets/ppt/Writing_Agent.pdf)
 **Hannan Cao**, Hwee Tou Ng <br />
