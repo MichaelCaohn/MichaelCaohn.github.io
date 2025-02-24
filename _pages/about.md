@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at NUSNLP lab supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/), in the School of Computing, National University of Singapore. I work on Natural Language Processing, with the current focus on Writing Assistant, and Large Language Models.
+I am a Ph.D. student at NUSNLP lab supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/), in the School of Computing, National University of Singapore. I work on Natural Language Processing, with the current focus on Aligning Large Language Models and Agents.
 
 Prior to my Ph.D. study, I received a Bachelor of Engineering (Computer Science) in 2020 from Nanyang Technological University, where I collaborated with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/), [Jianfei Cai](https://jianfei-cai.github.io/) and [Jun Luo](https://personal.ntu.edu.sg/junluo/). During my bachelor's study, I also had the opportunity to go on exchange programs at both [TUM](https://www.tum.de/en/) and [UCLA](https://www.ucla.edu/). Additionally, I also did several internships at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, and collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
 
