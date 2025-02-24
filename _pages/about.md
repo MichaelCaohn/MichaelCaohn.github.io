@@ -81,8 +81,9 @@ EMNLP findings, 2021
   - The 2023 Singapore Symposium on Natural Language Processing (SSNLP) [\[URL\]](https://wing-nus.github.io/ssnlp-2023/#Oral-list)
 
 # Reviewer/PC member for: 
-  - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
-  - International World Wide Web Conferences (WWW), 2024
   - ACL Rolling Review (ARR), 2025
+  - International World Wide Web Conferences (WWW), 2024
+  - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=200&t=n&d=6P9XP97cCMw0up3QQN0enaca7JKn-UuAthht_b7BeB8&co=f7f7f7'></script>
