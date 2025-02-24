@@ -77,12 +77,12 @@ EMNLP findings, 2021
 - *2018.05 - 2018.08*, Lazada, Singapore.
 
 # Patent
-## [Unsupervised Grammatical Error Correction System]
+## Unsupervised Grammatical Error Correction System
 Liping Yuan, **Hannan Cao**, Yuchen Zhang <br /> 
 China Patent App 2023
 
 # Invited Talks
-  - The 2023 Singapore Symposium on Natural Language Processing (SSNLP) [url](https://wing-nus.github.io/ssnlp-2023/#Oral-list)
+  - The 2023 Singapore Symposium on Natural Language Processing (SSNLP) [\[url\]](https://wing-nus.github.io/ssnlp-2023/#Oral-list)
 
 # Reviewer/PC member for: 
   - Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2023
