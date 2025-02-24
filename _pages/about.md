@@ -27,7 +27,7 @@ More about me: In my spare time, I love swimming, cycling, and playing tennis. T
 
 # Under Review Papers 
 
-## A Constrained Text Revision Agent via Iterative Planning and Searching [\[PDF\]](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf) [\[PPT\]](https://michaelcaohn.github.io/assets/ppt/Writing_Agent.pdf)
+**A Constrained Text Revision Agent via Iterative Planning and Searching** [\[PDF\]](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf) [\[PPT\]](https://michaelcaohn.github.io/assets/ppt/Writing_Agent.pdf)
 **Hannan Cao**, Hwee Tou Ng <br />
 
 
