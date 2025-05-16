@@ -30,10 +30,11 @@ More about me: In my spare time, I love swimming, cycling, and playing tennis. T
 
 ## [A Constrained Text Revision Agent via Iterative Planning and Searching](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf)
 **Hannan Cao**, Hwee Tou Ng <br />
-
+Findings of ACL, 2025
 
 ## [Rationalize and Align: Enhancing Writing Assistance with Rationale via Self-Training for Improved Alignment](https://michaelcaohn.github.io/assets/pdf/Writing_Assistant.pdf)
 **Hannan Cao**, Hai Ye, Hwee Tou Ng <br />
+Findings of ACL, 2025
 
 ## [A Unified Explanation for the Morphology and Carbon Storage of Raised Peatlands](https://www.nature.com/articles/s41586-023-06807-w)
 Alexander R. Cobb, René Dommain, Kimberly Yeap, **Hannan Cao**, Nathan C. Dadap, Bodo Bookhagen, Paul H. Glaser, Charles F. Harvey <br />
