@@ -25,7 +25,8 @@ If you are interested in my CV, please drop an email at caomichael19@gmail.com :
 
 More about me: In my spare time, I love swimming, cycling, and playing tennis. Traveling and exploring diverse cultures also captivate me. I've had the pleasure of living for over a year in the charming city of Cambridge, UK (2006), and have also spent an enriching six-month in Los Angeles, USA (2016), and Munich, Germany (2018).
 
-# Under Review Papers 
+
+# Selected Publications 
 
 ## [A Constrained Text Revision Agent via Iterative Planning and Searching](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf)
 **Hannan Cao**, Hwee Tou Ng <br />
@@ -33,9 +34,6 @@ More about me: In my spare time, I love swimming, cycling, and playing tennis. T
 
 ## [Rationalize and Align: Enhancing Writing Assistance with Rationale via Self-Training for Improved Alignment](https://michaelcaohn.github.io/assets/pdf/Writing_Assistant.pdf)
 **Hannan Cao**, Hai Ye, Hwee Tou Ng <br />
-
-
-# Peer-Reviewed Publications 
 
 ## [A Unified Explanation for the Morphology and Carbon Storage of Raised Peatlands](https://www.nature.com/articles/s41586-023-06807-w)
 Alexander R. Cobb, René Dommain, Kimberly Yeap, **Hannan Cao**, Nathan C. Dadap, Bodo Bookhagen, Paul H. Glaser, Charles F. Harvey <br />
