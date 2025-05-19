@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student at NUSNLP lab supervised by [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/), in the School of Computing, National University of Singapore. I work on Natural Language Processing, with the current focus on Aligning Large Language Models and Agents.
 
-Prior to my Ph.D. study, I received a Bachelor of Engineering (Computer Science) in 2020 from Nanyang Technological University, where I collaborated with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/), [Jianfei Cai](https://jianfei-cai.github.io/) and [Jun Luo](https://personal.ntu.edu.sg/junluo/). During my bachelor's study, I also had the opportunity to go on exchange programs at both [TUM](https://www.tum.de/en/) and [UCLA](https://www.ucla.edu/). Additionally, I also did several internships at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, and collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
+Prior to my Ph.D. study, I received a Bachelor of Engineering (Computer Science) with Minor in Mathematics in 2020 from Nanyang Technological University, where I collaborated with [Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/), [Jianfei Cai](https://jianfei-cai.github.io/) and [Jun Luo](https://personal.ntu.edu.sg/junluo/). During my bachelor's study, I also had the opportunity to go on exchange programs at both [TUM](https://www.tum.de/en/) and [UCLA](https://www.ucla.edu/). Additionally, I also did several internships at ByteDance AI Lab, Singapore-MIT Alliance for Research & Technology Centre (SMART), and Lazada, and collaborated with [Yuchen Zhang](https://zhangyuc.github.io), [Alexander R. Cobb](https://www.researchgate.net/profile/Alexander-Cobb-3), and [Jun Lang](https://billlangjun.github.io).
 
 If you are interested in my CV, please drop an email at caomichael19@gmail.com :)
 
@@ -27,6 +27,7 @@ More about me: In my spare time, I love swimming, cycling, and playing tennis. T
 
 
 # Selected Publications 
+During my PhD, I published five first-author papers at top-tier conferences and co-authored two influential journal articles.
 
 ## [A Constrained Text Revision Agent via Iterative Planning and Searching](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf)
 **Hannan Cao**, Hwee Tou Ng <br />
