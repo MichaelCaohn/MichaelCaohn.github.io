@@ -27,7 +27,7 @@ More about me: In my spare time, I love swimming, cycling, and playing tennis. T
 
 
 # Selected Publications 
-During my PhD, I published five first-author papers at top-tier conferences and co-authored two influential journal articles.
+During my PhD, I have published five first-author papers at top-tier conferences and co-authored two influential journal articles (CL Journal and Nature).
 
 ## [A Constrained Text Revision Agent via Iterative Planning and Searching](https://michaelcaohn.github.io/assets/pdf/Writing_Agent.pdf)
 **Hannan Cao**, Hwee Tou Ng <br />
